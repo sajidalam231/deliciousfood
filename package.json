@@ -2,7 +2,6 @@
   "name": "deliciouss",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sajidalam231.github.io/deliciousfood",
   "dependencies": {
     "@splidejs/react-splide": "^0.6.20",
     "@testing-library/jest-dom": "^5.16.4",
